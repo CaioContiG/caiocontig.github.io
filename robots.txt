@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://caioconti.github.io/sitemap.xml

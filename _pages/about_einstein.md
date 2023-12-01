@@ -1,0 +1,1 @@
+If you have any kind of query feel free to contact me at [caiocontig@gmail.com](mailto:caiocontig@gmail.com) or [caioconti@ufmg.br](mailto:caioconti@ufmg.br). You can also find me at LinkedIn: [https://www.linkedin.com/in/caio-conti/](https://www.linkedin.com/in/caio-conti/).
