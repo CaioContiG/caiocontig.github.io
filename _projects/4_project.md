@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: DOP Dynamic
+description: Dubins Orienteering Problem with Dynamic Rewards.
+img: assets/img/12.jpg
 importance: 3
-category: fun
 ---
 
 Every project has a beautiful feature showcase page.

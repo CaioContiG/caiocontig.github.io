@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Mobile Manipulator Navigation
+description: Navigation of a Mobile Manipulator carrying large objects in tight spaces with presence of humans.
+img: assets/img/12.jpg
+redirect: https://unsplash.com
+importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

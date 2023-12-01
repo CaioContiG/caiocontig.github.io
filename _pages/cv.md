@@ -1,11 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: <strong>Curriculum Vitae</strong>
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+cv_pdf: CaioConti_CV.pdf
+description: Click on the PDF icon below to download it.
+
 ---
