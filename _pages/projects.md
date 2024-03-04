@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <strong>Projects</strong>
+title: Projects
 permalink: /Projects/
-description: Main projects and activities participated.
+description: Main projects and activities participated. Click on each project to explore more details.
 nav: true
 nav_order: 2
 #display_categories: [work, fun]
