@@ -3,10 +3,10 @@ layout: page
 title: UGV/UAV Path-Planning
 description: Collaborative Unmanned Ground and Aerial vehicles Path Planning for Inventory Management in Warehouses.
 img: assets/img/ugv_uav.png
-importance: 1
-#category: work
+importance: 3
+category: previous
 ---
-The project served as my final paper for graduation and got maximum grade for it. It led to a [publication](https://ieeexplore.ieee.org/document/9995748) entitled Collaborative UGV/UAV Path Planning for Inventory Management in Warehouses and received an award as one of the top 15 best papers at the [conference](https://fei.edu.br/robotica/lars-sbr/).
+The project was my final paper for bachelor's and got maximum grade for it. It led to a [publication](https://ieeexplore.ieee.org/document/9995748) entitled Collaborative UGV/UAV Path Planning for Inventory Management in Warehouses and received an award as one of the top 15 best papers at the [conference](https://fei.edu.br/robotica/lars-sbr/).
 
 <div class="row justify-content-sm-center">
   <div class="col">

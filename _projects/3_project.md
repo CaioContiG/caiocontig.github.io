@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Multi-robots communication
+title: Multi-robots Navigation
 description: Communication Backbone Reconfiguration with Connectivity Maintenance.
-importance: 2
-img: assets/img/mr_connect.png
-#category: work
+importance: 3
+img: assets/img/hero-test.png
+category: current
 ---
 
-It is considered a system with mobile multi-robots where it is needed to maintain communication between the robots while moving. The system "formation" is called backbone, the "head" robot must have connexion, in this work based on distance, with the robot before, and this last one with the robot before, until the last "tail" robot. Overall, imagine we want to send the data collected from the first robot to de last passing trough several in the middle, while moving, without losing connexion.
+We consider a system with multi ground mobile robots where it is needed to maintain communication between the robots while moving. The scenario consists of a leader robot transmitting (wireless) an information to the next robot in line, which then passes it along to the subsequent robots until it reaches the base station. This line of robots, the formation, is called "backbone". The robots lose conection with each other based on line-of-sight. We want to be able to move robots between backbone configurations, without losing connection and use the least amount of robots possible.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -17,7 +17,4 @@ It is considered a system with mobile multi-robots where it is needed to maintai
 </p>
 </div>
 
-We propose a simple and effective trajectory planning framework that tackles the design, deployment, and reconfiguration of a communication backbone by reframing the problem of networked multi-agent motion planning as a manipulator motion planning problem. 
-Our approach works for backbones of variable configurations both in terms of the number of robots present and the distance between each robot. 
-
-In this project, which is current being developed, I am mainly responsible to set up the simulation, real tests and conduct the experimentation for validation of the algorithm. We are using the [Hero](https://verlab.github.io/hero_common/) platform to conduct the experimentation. Paper is on works.
+We propose a simple and effective trajectory planning framework that tackles the design, deployment, and reconfiguration of a communication backbone by reframing the problem of networked multi-agent motion planning as a manipulator motion planning problem. Our approach works for backbones of variable configurations both in terms of the number of robots present and the distance between each robot. We are using the [Hero](https://verlab.github.io/hero_common/) platform to conduct the experimentation. Paper is on works.

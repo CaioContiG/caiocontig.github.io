@@ -7,8 +7,8 @@ subtitle: M.Sc. student at DCC/UFMG. <br>Automation and Control Engineer.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: caio_robots_cut.jpg
+  #image_circular: true # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -20,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<span style="font-family: 'Your Font', sans-serif;">I’m currently an M.Sc. student in the Computer Vision and Robotics Laboratory ([VeRLab](https://www.verlab.dcc.ufmg.br/)) under the supervision of Professor Dr. [Douglas G. Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) at the Department of Computer Science ([DCC](https://www.dcc.ufmg.br/)) of the Federal University of Minas Gerais ([UFMG](https://ufmg.br/)) in Brazil. I graduated in Automation and Control Engineering (Diploma - 5 years) at the same university in 2023 with one exchange semester at
-Hochschule Rhein-Waal ([HSRW](https://www.hochschule-rhein-waal.de/en)), Germany. During graduation I worked with drones, multi-robots systems, robots cooperation, routing problems, path planning and evolutionary algorithms.</span>
+<span style="font-family: 'Your Font', sans-serif;">I am currently a Computer Science M.Sc. student in the Computer Vision and Robotics Laboratory ([VeRLab](https://www.verlab.dcc.ufmg.br/)) under the supervision of Professor Dr. [Douglas G. Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) at the Department of Computer Science ([DCC](https://www.dcc.ufmg.br/)) of the Federal University of Minas Gerais ([UFMG](https://ufmg.br/)) in Brazil. I hold a Diploma in Automation and Control Engineering from UFMG, obtained in 2023, with one exchange semester at
+Hochschule Rhein-Waal ([HSRW](https://www.hochschule-rhein-waal.de/en)), Germany.</span>
+
+<span style="font-family: 'Your Font', sans-serif;">Currently, I am researching socially-aware navigation in mobile manipulators, for my Master's thesis. During my bachelor's I specially worked with path-planning, navigation and cooperation of unmanned aerial and ground vehicles. My main interests lie in autonomous navigation, social robotics, robots cooperation and multi-robot systems.</span>
 
 
 <!-- 

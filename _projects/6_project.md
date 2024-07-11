@@ -2,9 +2,9 @@
 layout: page
 title: AVANT - UFMG
 description: Student-composed team that works with drones automation.
-importance: 3
+importance: 5
 img: assets/img/drone.jpg
-#category: fun
+category: previous
 ---
 [AVANT - UFMG](https://avant-ufmg.wixsite.com/avantufmg) is a team at the [Federal University of Minas Gerais](https://ufmg.br/) composed by students from varying backgrounds with the focus on doing research about autonomous aerial vehicles. The team builds and program drones to do autonomous tasks, participating in competitions in the field. Further information about the team can be found on their [website](https://avant-ufmg.wixsite.com/avantufmg) (portuguese).
 
