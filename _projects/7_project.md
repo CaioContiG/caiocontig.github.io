@@ -21,7 +21,7 @@ In the DOP we want to compute trajectories for a vehicle with curvature constrai
 
 We recently proposed the Variable-Speed Dubins Orienteering Problem (VS-DOP) where we consider that the vehicle can change its speed during the trajectory, different from the original problem, which considers constant speed. We shown that the VS-DOP outputs better results than compared to the DOP, even if the velocity is maximum at all times. The paper was sent and we are waiting for the result.
 
-Currently we want to work on the VS-DOP with the rewards changing in time, meaning that ones need to consider not only the positions but also in what time you are collecting the reward, to be able to maximize the amount of rewards collected. We already tested this formulation without varying velocity using Genetic Algorithms but it didn't give a big impact. Right now, we are studing applying the variying speed and trying new approaches to solving the new proposed problem.
+Currently we want to work on the VS-DOP with the rewards changing in time, meaning that ones need to consider not only the positions but also in what time you are collecting the reward, to be able to maximize the amount of rewards collected. We already tested this formulation without varying velocity using Genetic Algorithms but it didn't give a big impact. Right now, we are studing applying the variying speed and trying new approaches to solving the new proposed problem..
 
 
 
