@@ -47,7 +47,7 @@ category: current
 ---
 
 ## Baking the Biscuits  
-1. **Preheat Reminder**: Ensure your oven has preheated for at least 15 minutes.  
+1. **Preheat Reminder**: Ensure your oven has preheated for at least 15 minutes, for my oven is around 20-25.  
 2. **Bake**: Place the biscuits on the baking pan.  
    - No need to space them far apart, as they do not expand significantly during baking.  
    - Bake for around 20 minutes (fresh) or up to 40 minutes (frozen).  
@@ -56,4 +56,10 @@ category: current
 ---
 
 ### Extra observations: 
-Chives are just one flavor option! Consider, Leeks, Garlic, Pimenta calabresa, Chili flakes. I only tried chives so far, but these variations are worth exploring.
+Chives are just one flavor option! Consider, Leeks, Garlic, Pimenta calabresa, Chili flakes. 
+I tried chives, which is my favorite;
+I tried Leeks, which was good, but need more than chives to get the taste;
+I tried pimenta calabresa, which good but spicy!
+- **Chives:** My favorite! They add a fresh, mild onion-like flavor.  
+- **Leeks:** A good alternative, but you'll need more than what you would put for chives to get the taste.
+- **Pimenta calabresa:** good, but spicy!  
