@@ -10,13 +10,13 @@ The project was my final paper for bachelor's and got maximum grade for it. It l
 
 <div class="row justify-content-sm-center">
   <div class="col">
-    {% include figure.liquid path="assets/img/ugv_uav_copp1.svg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ugv_uav_copp1.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
     <div class="col">
-    {% include figure.liquid path="assets/img/ugv_uav_copp2.svg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ugv_uav_copp2.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
     <div class="col">
-    {% include figure.liquid path="assets/img/ugv_uav_copp3.svg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ugv_uav_copp3.png" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <p style="font-size: 12px;" class="text-center"> On the left, ground vehicle carries aerial vehicle. Middle, shows ground vehicle path with blue arrows and its stops in red circles. Right, shows the aerial vehicle path in one stop with red arrows, blue circles the shelves he need to visit. 
 </p>
