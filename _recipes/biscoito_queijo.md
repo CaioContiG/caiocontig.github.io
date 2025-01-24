@@ -8,7 +8,7 @@ category: current
 ---
 ## Ingredients
 - 250g polvilho doce  
-- 220g cheese of your choice (parmesan, canastra, meia-cura, or a mix like queijo minas + parmesan)  
+- 210g cheese of your choice (parmesan, canastra, meia-cura, or a mix like queijo minas + parmesan)  
 - 1 egg  
 - 50g butter  
 - About ½ cup milk  
