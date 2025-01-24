@@ -57,9 +57,6 @@ category: current
 
 ### Extra observations: 
 Chives are just one flavor option! Consider, Leeks, Garlic, Pimenta calabresa, Chili flakes. 
-I tried chives, which is my favorite;
-I tried Leeks, which was good, but need more than chives to get the taste;
-I tried pimenta calabresa, which good but spicy!
 - **Chives:** My favorite! They add a fresh, mild onion-like flavor.  
 - **Leeks:** A good alternative, but you'll need more than what you would put for chives to get the taste.
 - **Pimenta calabresa:** good, but spicy!  
