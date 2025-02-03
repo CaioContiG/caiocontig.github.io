@@ -6,6 +6,8 @@ importance: 3
 img: assets/img/hero-test.png
 category: current
 ---
+Paper can be found [here](https://arxiv.org/abs/2409.16851), it is currently under revision.
+
 
 We consider a system with multi ground mobile robots where it is needed to maintain communication between the robots while moving. The scenario consists of a leader robot transmitting (wireless) an information to the next robot in line, which then passes it along to the subsequent robots until it reaches the base station. This line of robots, the formation, is called "backbone". The robots lose conection with each other based on line-of-sight. We want to be able to move robots between backbone configurations, without losing connection and use the least amount of robots possible.
 
