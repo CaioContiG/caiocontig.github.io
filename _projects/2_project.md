@@ -6,9 +6,11 @@ img: assets/img/man_caio.jpg
 importance: 1
 category: current
 ---
-My current Master's thesis focuses on Mobile Manipulators, which are robots consisting of a mobile base with a robotic arm mounted on top. In this research, we address the challenge of navigating a Mobile Manipulator through environments with humans, classifying this work under Social Robotics.
+My current Master's thesis focuses on *Social Navigation for Mobile Manipulators*.
 
-In this problem, we cannot solely rely on the usual robot navigation criteria, where a robot is deemed successful if it avoids obstacles. When interacting with humans, robots must also consider human comfort to ensure a positive work environment and coexistence. Therefore, parameters such as speed, trajectory, and other characteristics need to be adjusted. A Social Robot may ensure human comfort during its navigation, for example, the Mobile Manipulator may navigate slowly when a human is nearby, and the arm may move lower to avoid sensitive areas, such as the eyes.
+Consider mobile manipulators as robots consisting of a mobile base and one or more robotic arms. In this research, we address the challenge of navigating a mobile manipulator through environments with humans, aiming to minimize the discomfort that humans may experience.
+
+<!--- In this problem, we cannot solely rely on the usual robot navigation criteria, where a robot is deemed successful if it avoids obstacles. When interacting with humans, robots must also consider human comfort to ensure a positive work environment and coexistence. Therefore, parameters such as speed, trajectory, and other characteristics need to be adjusted. A Social Robot may ensure human comfort during its navigation, for example, the Mobile Manipulator may navigate slowly when a human is nearby, and the arm may move lower to avoid sensitive areas, such as the eyes. -->
 
 <!--- The problem starts to get even more interesting if we consider that the robotic arm is carrying a possible danger load, like a heavy pipe, glass or a knife. In those cases is paramount to develop techniques specificly to deal in ambiance with humans. Social Robotic Navigation is a  wide largely studied reasearch area, with several ramifications to the topic, considering mobile robots. With Mobile Manipulators, works in Social Robotics tends to "retract" arms and not consider its degrees of freedom, basically considering them as a mobile robot or the arms are there for gesture and not actual carrying loads. -->
 
@@ -23,4 +25,6 @@ In this problem, we cannot solely rely on the usual robot navigation criteria, w
 </p>
 </div>
 
-We are currently testing a RRT* based algorithm to consider social norms in 2D using MatLab. We plan to extend for 3D, use a non-holonomic base and test decoupled (compute arm and base movement separetely) algorithms, consider groups of people and run on a real mobile-manipulator present in our laboratory.
+To solve the problem in a static environment (where people do not move), we employ a Risk-RRT*-based algorithm that considers personal spaces given by Kirby. We succesfully tested our developed algorithm in several environments, and we are currently working on an online algorithm for 2D environments.
+
+We plan to extend this to 3D. For this task, we need to compute the degree of discomfort in three dimensions, as we currently only have a 2D representation. Since the literature lacks such approaches, we are developing our own method.
