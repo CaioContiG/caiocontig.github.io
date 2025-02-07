@@ -6,7 +6,7 @@ importance: 5
 img: assets/img/drone.jpg
 category: previous
 ---
-[AVANT - UFMG](https://avant-ufmg.wixsite.com/avantufmg) is a team at the [Federal University of Minas Gerais](https://ufmg.br/) composed by students from varying backgrounds with the focus on doing research about autonomous aerial vehicles. The team builds and program drones to do autonomous tasks, participating in competitions in the field. Further information about the team can be found on their [website](https://avant-ufmg.wixsite.com/avantufmg) (portuguese).
+[AVANT - UFMG](https://avant-ufmg.wixsite.com/avantufmg) is a team at the [Federal University of Minas Gerais](https://ufmg.br/) composed by students from varying backgrounds with the focus on doing research about autonomous aerial vehicles. The team builds and program drones to do autonomous tasks. Further information can be found on their [website](https://avant-ufmg.wixsite.com/avantufmg) (portuguese).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -51,7 +51,9 @@ During my final year in the team, I led the group as a Manager. My roles include
 </p>
 </div>
 
-My final contribution was securing the participation and participating for the first time in the [Brazilian Robotics Competition](https://www.cbrobotica.org/) 2020: [Petrobras Robotic Challenge/Robocup Brazil](https://www.cbrobotica.org/index.php/2020/01/01/nova-categoria-desafio-de-robotica-petrobras/). Due to COVID-19, the competition was conducted in simulation. The objective was to enable a drone to autonomously perform multiple tasks in an arena, including inspecting oil tubes, landing on platforms, and scanning and reading information from them. There, I was mainly responsible for navigation, utilizing sensor and computer vision data to map the environment, ensuring safe navigation in the arena, precise alignment and accurate landing in designated spots. It was employed ROS and GAZEBO.
+My final contribution was securing the participation and participating for the first time in the [Brazilian Robotics Competition](https://cbr.robocup.org.br/) 2020: [Petrobras Robotic Challenge/Robocup Brazil](https://cbr.robocup.org.br/index.php/2020/01/01/nova-categoria-desafio-de-robotica-petrobras/). Due to COVID-19, the competition was conducted in simulation. The objective was to enable a drone to autonomously perform multiple tasks in an arena, including inspecting oil tubes, landing on platforms, and scanning and reading information from them. There, I was mainly responsible for navigation, utilizing sensor and computer vision data to map the environment, ensuring safe navigation in the arena, precise alignment and accurate landing in designated spots. It was employed ROS and GAZEBO.
+
+Here is a [drive link](https://drive.google.com/drive/folders/1raLP7iNX6bGCTjW3AdsK4p8WnqvgdSlb?usp=sharing) containing the videos of our tries.
 
 
 
