@@ -6,7 +6,7 @@ img: assets/img/man_caio.jpg
 importance: 1
 category: current
 ---
-My current Master's thesis focuses on *Social Navigation for Mobile Manipulators*. 
+My current Master's thesis focuses on [Social Navigation for Mobile Manipulators](https://drive.google.com/file/d/1Bq78hRLcDa333m-USPG97lgwnu47aSV2/view?usp=sharing). 
 
 Experiment videos: [EXP1](https://www.youtube.com/watch?v=lLFQ12lf_go), [EXP2](https://www.youtube.com/watch?v=c8PtqI2iLMM), [EXP3](https://www.youtube.com/watch?v=tNo6pqw-BAA).
 
@@ -47,7 +47,7 @@ Consider mobile manipulators as robots consisting of a mobile base and one or mo
 </div>
 
 To solve the problem in a static environment (people do not move), we employ a Risk-RRT*-based algorithm that considers personal spaces given by [Kirby](https://www.ri.cmu.edu/pub_files/2010/5/rk_thesis.pdf). We succesfully tested our developed algorithm in 
-several environments.
+several environments, partial results can be read [here](https://drive.google.com/file/d/1Bq78hRLcDa333m-USPG97lgwnu47aSV2/view?usp=sharing).
 
 <!--
 Full videos
