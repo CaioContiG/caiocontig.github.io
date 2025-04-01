@@ -4,7 +4,7 @@ title: Recipes
 permalink: /recipes/
 description: I also enjoy cooking! Here are some of my recipes. Be aware they might change as I tweak and improve them over time.
 nav: true
-nav_order: 2
+nav_order: 4
 horizontal: false
 ---
 
