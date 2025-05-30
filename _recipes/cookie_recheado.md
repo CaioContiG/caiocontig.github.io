@@ -10,13 +10,13 @@ category: current
 ## Ingredients
 
 - 150g Butter
-- 200g Chocolate (chopped to your desired size)
+- 210g Chocolate (chopped to your desired size)
 - 250g All-purpose flour
 - 1 teaspoon Cornstarch
 - A pinch of salt
-- A pinch of baking soda
-- 120g Brown sugar
-- 45g Crystal sugar
+- A (tiny) pinch of baking soda
+- 140g Brown sugar
+- 55g Crystal sugar
 - 1 Egg
 - 1 Egg yolk
 - Strawberry jam (homemade is best!)
