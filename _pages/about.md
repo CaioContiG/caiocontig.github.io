@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Computer Science MSc student at UFMG. <br>Automation and Control Engineer. 
+subtitle: PhD MSCA Fellow @ [IP-Paris](https://www.ip-paris.fr/). <br>Automation and Control Engineer. 
 
 profile:
   align: right
