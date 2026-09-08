@@ -12,7 +12,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Caio Conti Guidote Ribeiro</p>
+      <p>Caio Conti</p>
       <p><a href="mailto:caiocontig@gmail.com">caiocontig@gmail.com</a></p>
-      <p>DCC / UFMG</p>
+      <p>ENSTA PARIS / IP PARIS</p>
 ---

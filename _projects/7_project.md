@@ -4,7 +4,7 @@ title: DOP Related
 description: Problems proposed related to the Dubins Orienteering Problem.
 importance: 2
 img: assets/img/dop_example.png
-category: current
+category: previous
 ---
 We proposed the [Variable-Speed Dubins Orienteering Problem](https://ieeexplore.ieee.org/document/10786481) and *Varying Rewards Dubins Orienteering Problem*.
 

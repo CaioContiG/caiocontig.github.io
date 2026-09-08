@@ -4,7 +4,7 @@ title: Social Mobile Manipulator
 description: Navigation of a Mobile Manipulator considering presence of humans.
 img: assets/img/man_caio.jpg
 importance: 1
-category: current
+category: previous
 ---
 My current Master's thesis focuses on [Social Navigation for Mobile Manipulators](https://drive.google.com/file/d/1Bq78hRLcDa333m-USPG97lgwnu47aSV2/view?usp=sharing). 
 

@@ -4,7 +4,7 @@ title: Multi-robots Navigation
 description: Communication Backbone Reconfiguration with Connectivity Maintenance.
 importance: 3
 img: assets/img/hero-test.png
-category: current
+category: previous
 ---
 
 We propose a path-planner for [Multi-Robot Systems with Continuous Connectivity](https://arxiv.org/abs/2409.16851). 
